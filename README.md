@@ -1,3 +1,3 @@
 # apna-college-demo
 This is my first git repository <br>
-Author - Mohit Jangid 
+Author - Mohit Jangid ( author )
